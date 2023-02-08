@@ -1,13 +1,14 @@
-Django Restframework Todo App 
+# Django Restframework Todo App 
 
 You can find the backend here  [Django Restframework Todo App Api](https://github.com/GaoxingAbdullah/todo_drf)
 
 
-# Getting Started with Create React App
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Available Scripts
 
 In the project directory, you can run:
 
